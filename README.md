@@ -1,11 +1,10 @@
 # Data Analysis and Visualizations of Chemical Elements and Compounds
 
-### Selected Topic
-We have chosen to use various API's (https://materialsproject.org, https://pymatgen.org, https://mendeleev.readthedocs.io/en/stable/quick.html, https://citrination.com) and want to use the elements presented in these datasets in order to plot the relationships among them. The reason for the utilization of multiple API's is due to the fact that creating datasets from multiple resources gives a broader and less biased visual. For example, there are some visualizations of the chemical elements Fe and Ti below showing the types of results that should be expected later in this project.
-
 ### Goal
-We want to apply our model to optimize the design and accelerate the development of structural materials for the Space industry.
+We want to apply our model to optimize the design and also accelerate the development of structural materials for the Space industry.
 
+### Selected Topic
+We have chosen to use various API's (https://materialsproject.org, https://pymatgen.org, https://mendeleev.readthedocs.io/en/stable/quick.html, https://citrination.com) and want to use the elements presented in these datasets in order to plot the relationships among them. The reason for the utilization of multiple API's is due to the fact that creating datasets from multiple resources gives a broader and less biased visual. For example, there are some visualizations of the chemical elements Fe and Ti below showing the types of building blocks and preliminaries we deem necessary to build our model with.
 
 ### TECHNOLOGY 
 The technology we are using: AWS, pandas, jupyter notebook, plotly, matplot, materials project, tensorflow, keras, Spark, Colab, SQL, Postgress. Machine learning model: Linear regression, random forest tree, PCA and Neuron Networks.
@@ -32,6 +31,6 @@ For instance:
 </p>
 
 ### Questions we hope to answer with the data we have chosen:
-1. We hope to answer the relationship on materials, properties e.g. strength and density.
+1. We hope to answer the relationship on the materials and properties presented in the datasets e.g. strength and density.
 2. Using machine learning to help us select candidate materials for Space X missions with good properties.
-3. We hope to answer expand the model application to other applications.
+3. We hope to answer how to expand the model application to other applications in the space industry.
