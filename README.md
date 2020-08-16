@@ -9,3 +9,7 @@ For instance:
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/mky1234/Graphs/Trial/newplot%20(4).png" width="300" />
 </p>
 
+<p float="left">
+  <img src="https://github.com/TeamPythonKMJ/Trial/blob/mky1234/Graphs/Fe_based%20hardness.png" width="600" />
+  <img src="https://github.com/TeamPythonKMJ/Trial/blob/mky1234/Graphs/Ti_based%20hardness.png" width="600" /> 
+</p>
