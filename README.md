@@ -21,3 +21,4 @@ For instance:
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/mky1234/Graphs/Ti_based%20hardness.png" width="600" /> 
 </p>
 
+### Questions we hope to answer with the data we have chosen:
