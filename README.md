@@ -1,5 +1,5 @@
 
-# TECHNOLOGY The technology we are using: AWS, pandas, jupyter notebook, plotly, matplot, materials project, tensorflow, keras, Spark, Colab, SQL, Postgress. Machine learning model: Linear regression, random forest tree, PCA and Neuron Networks.
+# TECHNOLOGY: The technology we are using: AWS, pandas, jupyter notebook, plotly, matplot, materials project, tensorflow, keras, Spark, Colab, SQL, Postgress. Machine learning model: Linear regression, random forest tree, PCA and Neuron Networks.
 
 ### Jack
 Our data is coming from various APIs. After being cleaned, we will store the data using a Postgres database that is hosted on Amazon Web Servies RDS so that all team members can access it. The framework for this has been set up.
