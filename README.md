@@ -1,5 +1,5 @@
 # Trial
-The Data we have obtained is from **Pymatgen** & **Mendeleev**.
+The Data we have obtained is from [**Pymatgen**](https://pymatgen.org), [**Mendeleev**](https://mendeleev.readthedocs.io/en/stable/quick.html), [**Materials Project**](https://materialsproject.org) and [**Citrination**](https://citrination.com).
 We have collected data from these libraries for each element and plotted the relationship of variables of interest.
 For instance:
 
