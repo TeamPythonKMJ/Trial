@@ -1,3 +1,6 @@
+# Selected Topic
+We have chosen to use various API's (https://materialsproject.org, https://pymatgen.org, https://mendeleev.readthedocs.io/en/stable/quick.html, https://citrination.com) and want to use the elements presented in these datasets in order to plot the relationships among them.
+
 # TECHNOLOGY 
 The technology we are using: AWS, pandas, jupyter notebook, plotly, matplot, materials project, tensorflow, keras, Spark, Colab, SQL, Postgress. Machine learning model: Linear regression, random forest tree, PCA and Neuron Networks.
 
