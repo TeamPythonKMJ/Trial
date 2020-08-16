@@ -1,4 +1,4 @@
-# Data Visualizations of Chemical Elements
+# Data Visualizations of Chemical Elements and Compounds
 
 ### Selected Topic
 We have chosen to use various API's (https://materialsproject.org, https://pymatgen.org, https://mendeleev.readthedocs.io/en/stable/quick.html, https://citrination.com) and want to use the elements presented in these datasets in order to plot the relationships among them. The reason for the utilization of multiple API's is due to the fact that creating datasets from multiple resources gives a broader and less biased visual. For example, there are some visualizations of the chemical elements Fe and Ti below showing the types of results that should be expected later in this project.
