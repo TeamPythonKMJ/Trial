@@ -28,3 +28,6 @@ For instance:
 </p>
 
 ### Questions we hope to answer with the data we have chosen:
+1. We hope to answer the relationship on materials, properties e.g. strength and density.
+2. Using machine learning to help us select candidate materials for Space X missions with good properties.
+3. We hope to answer expand the model application to other applications.
