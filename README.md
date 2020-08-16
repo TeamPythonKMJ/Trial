@@ -30,7 +30,7 @@ For instance:
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/mky1234/Graphs/Ti_based%20hardness.png" width="600" /> 
 </p>
 
-### Questions we hope to answer with the data we have chosen:
+### Potential Problems we hope to fix with the data we have chosen:
 1. We hope to answer the relationship on the materials and properties presented in the datasets e.g. strength and density.
 2. Using machine learning to help us select candidate materials for Space X missions with good properties.
 3. We hope to answer how to expand the model application to other applications in the space industry.
