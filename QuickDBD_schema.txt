@@ -1,0 +1,77 @@
+Element_Properties
+-
+chemical_element varchar pk fk 
+atomic_mass float
+poissons_ratio float
+atomic_radius float
+electrical_resistivity float
+molar_volume float
+thermal_conductivity float
+bulk_modulus float
+youngs_modulus float
+periodic_group int
+is_noble_gas bool
+is_transition_metal bool
+is_post_transition_metal bool
+is_rare_earth_metal bool
+is_metalloid bool
+is_alkali bool
+is_alkaline bool
+is_halogen bool
+is_lanthanoid bool
+is_actinoid bool
+van_der_waals_radius float
+velocity_of_sound float
+critical_temperature float
+superconduction_temperature float
+average_cationic_radius float
+average_anionic_radius float
+ionic_radii float
+boiling_point float
+vickers_hardness float
+average_ionic_radius float
+melting_point float
+rigidity_modulus float
+Z int
+atomic_number int
+density_of_solid float
+coefficient_of_linear_thermal_expansion float
+
+
+Fe_Compounds
+-
+mp_id varchar pk
+Formula varchar
+Composition_element1 varchar fk >- Element_properties.chemical_element
+Composition_element1_number int
+Composition_element2 varchar fk >- Element_properties.chemical_element
+Composition_element2_number int
+Composition_element3 varchar fk >- Element_properties.chemical_element
+Composition_element3_number int
+Composition_element4 varchar fk >- Element_properties.chemical_element
+Composition_element4_number int
+Composition_element5 varchar fk >- Element_properties.chemical_element
+Composition_element5_number int
+IPF float
+Density float
+Elastic_Tensor varchar
+E_above_Hull float
+
+Ti_Compounds
+-
+mp_id varchar pk
+Formula varchar
+Composition_element1 varchar fk >- Element_properties.chemical_element
+Composition_element1_number int
+Composition_element2 varchar fk >- Element_properties.chemical_element
+Composition_element2_number int
+Composition_element3 varchar fk >- Element_properties.chemical_element
+Composition_element3_number int
+Composition_element4 varchar fk >- Element_properties.chemical_element
+Composition_element4_number int
+Composition_element5 varchar fk >- Element_properties.chemical_element
+Composition_element5_number int
+IPF float
+Density float
+Elastic_Tensor varchar
+E_above_Hull float
