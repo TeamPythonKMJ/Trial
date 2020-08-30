@@ -3,6 +3,9 @@
 ### Goal
 We want to apply our model to optimize the design and also accelerate the development of structural materials for the Space industry.
 
+### Reason for Chosen Topic
+We selected this topic to bring awareness to certain elements that can help the Space Industry differentiate between more useful elements and less useful elements which will in turn lower opportunity costs. 
+
 ### Selected Topic
 We have chosen to use various API's (https://materialsproject.org, https://pymatgen.org, https://mendeleev.readthedocs.io/en/stable/quick.html, https://citrination.com) and want to use the elements presented in these datasets in order to plot the relationships among them. The reason for the utilization of multiple API's is due to the fact that creating datasets from multiple resources gives a broader and less biased visual. For example, there are some visualizations of the chemical elements Fe and Ti below showing the types of building blocks and preliminaries we deem necessary to build our model with in order to boost the development of the structural materials (Fe and Ti are examples) which would in time optimize design for the Space Industry.
 
