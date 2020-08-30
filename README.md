@@ -28,7 +28,7 @@ For instance:
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/master/Linear%20Regression/all%20data.png" width="600" /> 
 </p>
 
-# Machine Learning Visualizations:
+# Linear Regression:
 <p float="left">
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/master/Linear%20Regression/all%20data.png" width="600" /> 
   <img src="" width="600" /> 
