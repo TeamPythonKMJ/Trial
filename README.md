@@ -34,6 +34,9 @@ For instance:
   <img src="" width="600" /> 
 </p>
 
+# Neuron Networks Model:
+We have selected a three-layer neuron networks model, and the sequential model from Tensorflow Keras give us a 32 input layer, and two middle layers with 64 nodes for each and an output layer with RMS Prop Optimizer (Root Mean Square Propagation). Figure 3 This model is trained for 2000 epochs, and we record the training accuracy in the history object. The loss/mean absolute error (mae) versus epochs have been given in Fig.4.
+
 # Questions we hope to answer with the data we have chosen:
 1. We hope to answer the relationship on the materials and properties presented in the datasets e.g. strength and density.
 2. Using machine learning to help us select candidate materials for Space X missions with good properties.
