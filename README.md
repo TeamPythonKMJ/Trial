@@ -23,12 +23,11 @@ For instance:
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/mky1234/Graphs/Trial/newplot%20(2).png" width="300" />
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/mky1234/Graphs/Trial/newplot%20(3).png" width="300" /> 
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/mky1234/Graphs/Trial/newplot%20(4).png" width="300" />
-</p>
-
-<p float="left">
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/mky1234/Graphs/Fe_based%20hardness.png" width="600" />
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/mky1234/Graphs/Ti_based%20hardness.png" width="600" /> 
+  <img src="" width="600" /> 
 </p>
+
 
 ### Questions we hope to answer with the data we have chosen:
 1. We hope to answer the relationship on the materials and properties presented in the datasets e.g. strength and density.
