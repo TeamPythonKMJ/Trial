@@ -86,6 +86,5 @@ https://docs.google.com/presentation/d/1ostZBVuZqJCKaie4cOoh-l3yEGCsaWMxv4Yl2mks
 # Example of a potential Dashboard
 
 <p float="left">
-  <img src="" /> 
-  <img src="" width="600" /> 
+  <img src="https://github.com/TeamPythonKMJ/Trial/blob/mhvarner/Tableau%20Dashboard%20Screenshot.png" width="600" /> 
 </p>
