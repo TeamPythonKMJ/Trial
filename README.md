@@ -75,9 +75,12 @@ We have selected a three-layer neuron networks model, and the sequential model f
 
 https://docs.google.com/presentation/d/1W8yCPKtcN6bc81_NDfQyFiJWtKmFfxdz-vIdLw5BoQs/edit?usp=sharing
 
+https://docs.google.com/presentation/d/1W8yCPKtcN6bc81_NDfQyFiJWtKmFfxdz-vIdLw5BoQs/edit#slide=id.g91c058e468_0_1
+
 # Storyboard Powerpoint Blueprint link:
 
 https://docs.google.com/presentation/d/1ostZBVuZqJCKaie4cOoh-l3yEGCsaWMxv4Yl2mksWM8/edit?usp=sharing
 
+https://docs.google.com/presentation/d/1ostZBVuZqJCKaie4cOoh-l3yEGCsaWMxv4Yl2mksWM8/edit#slide=id.g94fdd15cd1_0_0
 
 
