@@ -48,7 +48,7 @@ We have selected a three-layer neuron networks model, and the sequential model f
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/master/Neuron%20Networks/Neuron%20networks%20layers.PNG" width="600" /> 
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/master/Neuron%20Networks/Predictions.png" width="600" /> 
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/master/NeuronModelCode.png" width="600" /> 
-  <img src="" width="600" /> 
+  <img src="https://github.com/TeamPythonKMJ/Trial/blob/master/Figure4tensor.png" width="600" /> 
 </p>
 
 
