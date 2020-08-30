@@ -26,14 +26,22 @@ For instance:
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/mky1234/Graphs/Fe_based%20hardness.png" width="600" />
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/mky1234/Graphs/Ti_based%20hardness.png" width="600" /> 
 </p>
-### Model Description
-# Linear Regression:
+
+
+### Questions we hope to answer with the data we have chosen:
+1. We hope to answer the relationship on the materials and properties presented in the datasets e.g. strength and density.
+2. Using machine learning to help us select candidate materials for Space X missions with good properties.
+3. We hope to answer how to expand the model application to other applications in the space industry.
+
+# Model Description:
+
+### Linear Regression:
 <p float="left">
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/master/Linear%20Regression/all%20data.png" width="600" /> 
   <img src="" width="600" /> 
 </p>
 
-# Neuron Networks Model:
+### Neuron Networks Model:
 We have selected a three-layer neuron networks model, and the sequential model from Tensorflow Keras give us a 32 input layer, and two middle layers with 64 nodes for each and an output layer with RMS Prop Optimizer (Root Mean Square Propagation). Figure 3 This model is trained for 2000 epochs, and we record the training accuracy in the history object. The loss/mean absolute error (mae) versus epochs have been given in Fig.4.
 
 <p float="left">
@@ -43,13 +51,8 @@ We have selected a three-layer neuron networks model, and the sequential model f
   <img src="" width="600" /> 
 </p>
 
-# Questions we hope to answer with the data we have chosen:
-1. We hope to answer the relationship on the materials and properties presented in the datasets e.g. strength and density.
-2. Using machine learning to help us select candidate materials for Space X missions with good properties.
-3. We hope to answer how to expand the model application to other applications in the space industry.
 
-
-## Machine Learning Model
+### Machine Learning Model
 
 1. Linear regression
 The linear regression model simply predicts the Young’s modulus [GPa] based on the density [g/cm3] on 2136 data points.
@@ -60,11 +63,11 @@ We have selected a three-layer neuron networks model, and the sequential model f
 3. Unsupervised machine learning
 K-means was used to identify the groups of materials based on all the input columns. Principle Component Analysis (PCA) was used to find the key performance indicator that affects the Young's Modulus predictions and improved the input layer of the Neuron Network. 
 
-Powerpoint Presentation link:
+# Powerpoint Presentation link:
 
 https://docs.google.com/presentation/d/1W8yCPKtcN6bc81_NDfQyFiJWtKmFfxdz-vIdLw5BoQs/edit?usp=sharing
 
-Storyboard Powerpoint Blueprint link:
+# Storyboard Powerpoint Blueprint link:
 
 https://docs.google.com/presentation/d/1ostZBVuZqJCKaie4cOoh-l3yEGCsaWMxv4Yl2mksWM8/edit?usp=sharing
 
