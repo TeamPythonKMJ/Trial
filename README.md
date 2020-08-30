@@ -5,6 +5,9 @@ The technology we are using: AWS, pandas, jupyter notebook, plotly, matplot, mat
 # Second Deliverable
 I am in charge of the Presentation and Storyboard blueprint for the project. I am doing these two components in Google Slides and expect to lay a clear foundation on the explanation of our topic.
 Powerpoint Presentation link:
+
 https://docs.google.com/presentation/d/1W8yCPKtcN6bc81_NDfQyFiJWtKmFfxdz-vIdLw5BoQs/edit?usp=sharing
+
 Storyboard Powerpoint Blueprint link:
+
 https://docs.google.com/presentation/d/1ostZBVuZqJCKaie4cOoh-l3yEGCsaWMxv4Yl2mksWM8/edit?usp=sharing
