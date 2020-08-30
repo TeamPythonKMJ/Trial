@@ -51,6 +51,7 @@ We have selected a three-layer neuron networks model, and the sequential model f
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/master/Figure4tensor.png" width="600" /> 
 </p>
 
+* The above graph is Figure 4 the top description is referring to.
 
 ### Machine Learning Model
 
