@@ -26,7 +26,7 @@ For instance:
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/mky1234/Graphs/Fe_based%20hardness.png" width="600" />
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/mky1234/Graphs/Ti_based%20hardness.png" width="600" /> 
 </p>
-
+### Model Description
 # Linear Regression:
 <p float="left">
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/master/Linear%20Regression/all%20data.png" width="600" /> 
@@ -67,4 +67,6 @@ https://docs.google.com/presentation/d/1W8yCPKtcN6bc81_NDfQyFiJWtKmFfxdz-vIdLw5B
 Storyboard Powerpoint Blueprint link:
 
 https://docs.google.com/presentation/d/1ostZBVuZqJCKaie4cOoh-l3yEGCsaWMxv4Yl2mksWM8/edit?usp=sharing
+
+
 
