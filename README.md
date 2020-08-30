@@ -83,4 +83,9 @@ https://docs.google.com/presentation/d/1ostZBVuZqJCKaie4cOoh-l3yEGCsaWMxv4Yl2mks
 
 https://docs.google.com/presentation/d/1ostZBVuZqJCKaie4cOoh-l3yEGCsaWMxv4Yl2mksWM8/edit#slide=id.g94fdd15cd1_0_0
 
+# Example of a potential Dashboard
 
+<p float="left">
+  <img src="" /> 
+  <img src="" width="600" /> 
+</p>
