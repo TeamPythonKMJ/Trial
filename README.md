@@ -89,3 +89,7 @@ https://docs.google.com/presentation/d/1ostZBVuZqJCKaie4cOoh-l3yEGCsaWMxv4Yl2mks
 <p float="left">
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/mhvarner/TEAM_PYTHON_DASHBOARD.png" width="600" /> 
 </p>
+
+# Dashboard Link
+
+https://public.tableau.com/profile/michael5040#!/vizhome/TeamPythonDashboardFINAL/TeamPythonDashboard
