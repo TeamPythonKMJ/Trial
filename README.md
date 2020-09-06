@@ -71,6 +71,26 @@ We have selected a three-layer neuron networks model, and the sequential model f
 
 * The above graph is Figure 4 the top description is referring to.
 
+### Recommendation for future analysis
+
+1. Consider other types of materials for battery.
+
+2. Include more parameters to the Neuron Networks model.
+
+3. We will add the random forest tree for decision making process based on consider certain materials for specific functions (confusion matrix).
+
+4. Image analysis with Convolutional Neural Networks (CNN) for defect identification.
+
+### Things we would have done differently
+
+1. Arts and aesthetic design for data visualization.
+
+2. Organize the data pipeline using Spark to automate the BigData ETL process. 
+
+3. JavaScript and CSS. for website User Interface (UI) for our data.
+
+4. Web Scraping with Dynamic Data updates.
+
 
 # Powerpoint Presentation link:
 
