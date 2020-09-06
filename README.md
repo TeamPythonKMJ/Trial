@@ -84,8 +84,8 @@ https://docs.google.com/presentation/d/1W8yCPKtcN6bc81_NDfQyFiJWtKmFfxdz-vIdLw5B
 
 https://docs.google.com/presentation/d/1ostZBVuZqJCKaie4cOoh-l3yEGCsaWMxv4Yl2mksWM8/edit#slide=id.g94fdd15cd1_0_0
 
-# Example of a potential Dashboard
+# Dashboard Screenshot
 
 <p float="left">
-  <img src="https://github.com/TeamPythonKMJ/Trial/blob/mhvarner/Tableau%20Dashboard%20Screenshot.png" width="600" /> 
+  <img src="https://github.com/TeamPythonKMJ/Trial/blob/mhvarner/TEAM_PYTHON_DASHBOARD.png" width="600" /> 
 </p>
