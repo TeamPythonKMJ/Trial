@@ -71,7 +71,7 @@ We have selected a three-layer neuron networks model, and the sequential model f
 
 * The above graph is Figure 4 the top description is referring to.
 
-### Recommendation for future analysis
+### Recommendation for future analysis:
 
 1. Consider other types of materials for battery.
 
@@ -81,7 +81,7 @@ We have selected a three-layer neuron networks model, and the sequential model f
 
 4. Image analysis with Convolutional Neural Networks (CNN) for defect identification.
 
-### Things we would have done differently
+### Things we would have done differently:
 
 1. Arts and aesthetic design for data visualization.
 
@@ -97,13 +97,13 @@ We have selected a three-layer neuron networks model, and the sequential model f
 https://docs.google.com/presentation/d/1W8yCPKtcN6bc81_NDfQyFiJWtKmFfxdz-vIdLw5BoQs/edit#slide=id.g91c058e468_0_1
 
 
-# Dashboard Screenshot
+# Dashboard Screenshot:
 
 <p float="left">
   <img src="https://github.com/TeamPythonKMJ/Trial/blob/mhvarner/TEAM_PYTHON_DASHBOARD.png" width="600" /> 
 </p>
 
-# Dashboard Link
+# Dashboard Link:
 
 https://public.tableau.com/profile/michael5040#!/vizhome/TeamPythonDashboardFINAL/TeamPythonDashboard
 
