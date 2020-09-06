@@ -14,3 +14,7 @@ https://docs.google.com/presentation/d/1ostZBVuZqJCKaie4cOoh-l3yEGCsaWMxv4Yl2mks
 
 # Third Deliverable
 I have delved into the Dashboard creating process and with the help of team built an interactive Visualization highlighting the main areas of concern in the machine learning model. 
+
+Dashboard link on Tableau:
+
+https://public.tableau.com/profile/michael5040#!/vizhome/TeamPythonDashboardFINAL/TeamPythonDashboard?publish=yes
