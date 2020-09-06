@@ -36,10 +36,6 @@ For instance:
 2. Using machine learning to help us select candidate materials for Space X missions with good properties.
 3. We hope to answer how to expand the model application to other applications in the space industry.
 
-### Communication Protocols
-* TCP/IP (Transmission Control Protocol/Internet Protocol)
-* Hyper Text Transfer Protocol (HTTP)
-* Hyper Text Transfer Protocol Secure (HTTPS)
 
 # Model Description:
 
