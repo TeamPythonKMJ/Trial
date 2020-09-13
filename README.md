@@ -10,3 +10,8 @@ We have selected a three-layer neuron networks model, and the sequential model f
 
 3. Unsupervised machine learning
 K-means was used to identify the groups of materials based on all the input columns. Principle Component Analysis (PCA) was used to find the key performance indicator that affects the Young's Modulus predictions and improved the input layer of the Neuron Network. 
+
+
+# Powerpoint Presentation link:
+
+https://docs.google.com/presentation/d/1W8yCPKtcN6bc81_NDfQyFiJWtKmFfxdz-vIdLw5BoQs/edit#slide=id.g91c058e468_0_1
