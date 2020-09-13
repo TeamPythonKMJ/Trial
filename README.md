@@ -18,3 +18,5 @@ I have delved into the Dashboard creating process and with the help of team buil
 Dashboard link on Tableau:
 
 https://public.tableau.com/profile/michael5040#!/vizhome/TeamPythonDashboardFINAL/TeamPythonDashboard?publish=yes
+
+Thanks to my team for doing their parts to make this a successful Materials Research Machine Learning Model.
