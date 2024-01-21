@@ -1,4 +1,4 @@
-# Data Analysis and Visualizations of Chemical Elements and Compounds
+# Machine-Learning Informed Light Weight High-Strength Materials Design
 
 ### Goal
 We want to apply our model to optimize the design and also accelerate the development of structural materials for the Space industry.
